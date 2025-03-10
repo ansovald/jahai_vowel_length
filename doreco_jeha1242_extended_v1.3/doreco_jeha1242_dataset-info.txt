@@ -1,0 +1,12 @@
+The Jahai DoReCo dataset was compiled by Niclas Burenhult between 2000 and 2012 and further processed for DoReCo by Karl Oßwald, Michelle Throssell, Ludger Paschen, and Matthew Stave between 2019 and 2024. The files that the Jahai DoReCo dataset are based on are part of a larger collection of Niclas Burenhult's Jahai data that is archived at RWAAI (https://archive.humlab.lu.se/flat/islandora/object/lat%3A10050_00_0000_0000_0003_67AD_6), and, partially, at TLA (https://hdl.handle.net/1839/00-0000-0000-0008-71E6-5).
+
+Jahai DoReCo annotation files are distributed under an Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Jahai DoReCo audio files are distributed under an Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License (https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+The Jahai DoReCo dataset should be cited as follows:
+Burenhult, Niclas. 2024. Jahai DoReCo dataset. In Seifart, Frank, Ludger Paschen and Matthew Stave (eds.). Language Documentation Reference Corpus (DoReCo) 2.0. Lyon: Laboratoire Dynamique Du Langage (UMR5596, CNRS & Université Lyon 2). (https://doi.org/10.34847/nkl.6a71xp0p).
+
+Please note that when actual data from any number of DoReCo datasets is used, the full reference for each individual dataset must be provided, including the name(s) of the creator(s) of each dataset. It is NOT sufficient to refer to DoReCo as a whole. We are aware that this may result in very long lists of references, but it is only in this way that corpus creators get due recognition for their work. The default is to include the full set of bibliographical references in the reference section of the main text of a paper or abstract. If this is absolutely impossible (because of page limit restrictions, for instance), then inclusion of the full list of references in an appendix is acceptable, or - as a last resort - in supplementary material published separately, e.g. on Zenodo or OSF, in which case the main text of the paper or the abstract must explicitly refer to this list and provide its URL or PID.
+
+A web interface for easy access to this dataset as well as other DoReCo datasets and further information can be found at https://doreco.huma-num.fr.

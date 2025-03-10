@@ -1,0 +1,2475 @@
+{
+    "ʔoʔ": {
+        "count": 614,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "sʔoʔ": 13,
+                "k=ʔoʔ": 5,
+                "dʔoʔ": 4,
+                "kʔoʔ": 3,
+                "d=ʔoʔ": 2
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "jaʔoʔ": 49,
+                "ja=ʔoʔ": 7,
+                "ka=ʔoʔ": 3,
+                "kaʔoʔ": 2,
+                "baʔoʔ": 1
+            },
+            "CC.CVC": {
+                "kjaʔoʔ": 1,
+                "cn=ʔoʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "lɛh": {
+        "count": 300,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "plɛh": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "balɛh": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "yɛʔ": {
+        "count": 254,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "dyɛʔ": 16,
+                "d=yɛʔ": 11,
+                "kyɛʔ": 6
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "jayɛʔ": 52,
+                "bayɛʔ": 4,
+                "kayɛʔ": 3,
+                "ja=yɛʔ": 3,
+                "ba=yɛʔ": 1,
+                "yayɛʔ": 1
+            },
+            "CVC.CVC": {
+                "jadyɛʔ": 2,
+                "kadyɛʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ton": {
+        "count": 173,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kton": 35,
+                "k=ton": 16,
+                "lton": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "ka=ton": 1
+            },
+            "CVC.CVC": {
+                "yakton": 1
+            }
+        },
+        "trisyllabic": {
+            "CVC.CVC.CVC": {
+                "ton-ton-ton": 1
+            }
+        },
+        "unclear": {
+            "CVC.CVC.CVC.CVC.CVC.CVC.CVC.CVC": {
+                "ton-ton-ton-ton-ton-ton-ton-ton": 1
+            },
+            "CVC.CVC.CVC.CVC.CVC.CVC": {
+                "ton-ton-ton-ton-ton-ton": 1
+            }
+        }
+    },
+    "cɨp": {
+        "count": 151,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=cɨp": 12,
+                "yacɨp": 6,
+                "wa=cɨp": 5,
+                "jacɨp": 3,
+                "ha=cɨp": 2,
+                "ka=cɨp": 1,
+                "hacɨp": 1
+            },
+            "CVC.CVC": {
+                "cɨp-cɨp": 2
+            }
+        },
+        "trisyllabic": {
+            "C.CV.CVC": {
+                "k=wa=cɨp": 1
+            },
+            "CV.CV.CVC": {
+                "ha=ya=cɨp": 1
+            }
+        },
+        "unclear": {
+            "CV.C.CC.CVC": {
+                "ya=b-cp-cɨp": 2
+            },
+            "CVC.CVC.CVC.CVC.CVC.CVC.CVC.CVC": {
+                "cɨp-cɨp-cɨp-cɨp-cɨp-cɨp-cɨp-cɨp": 1
+            }
+        }
+    },
+    "tə̃h": {
+        "count": 142,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "ktə̃h": 22,
+                "k=tə̃h": 16,
+                "dtə̃h": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "katə̃h": 2,
+                "ka=tə̃h": 1
+            },
+            "CVC.CVC": {
+                "jaktə̃h": 2
+            }
+        },
+        "trisyllabic": {
+            "CC.CV.CVC": {
+                "cnkatə̃h": 1
+            }
+        },
+        "unclear": {
+            "CVCCCV.CVC": {
+                "yacnkatə̃h": 1
+            }
+        }
+    },
+    "tɔm": {
+        "count": 131,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "k=tɔm": 1,
+                "l=tɔm": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "ba=tɔm": 21,
+                "ka=tɔm": 6,
+                "batɔm": 5
+            },
+            "CVC.CVC": {
+                "cantɔm": 3,
+                "can=tɔm": 2,
+                "teʔtɔm": 1
+            },
+            "CC.CVC": {
+                "nm-tɔm": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV.CVC": {
+                "ha=ba=tɔm": 2
+            }
+        },
+        "unclear": {}
+    },
+    "pɛ̃h": {
+        "count": 92,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kpɛ̃h": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "yapɛ̃h": 147,
+                "japɛ̃h": 1
+            },
+            "CC.CVC": {
+                "dyapɛ̃h": 3
+            }
+        },
+        "trisyllabic": {
+            "C.CV.CVC": {
+                "d=yapɛ̃h": 1
+            },
+            "CV.CV": {
+                "kayapɛ̃h": 1
+            }
+        },
+        "unclear": {}
+    },
+    "heʔ": {
+        "count": 92,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "k=heʔ": 1,
+                "dheʔ": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "jaheʔ": 6,
+                "ha=heʔ": 6,
+                "ja=heʔ": 5,
+                "haheʔ": 2,
+                "ka=heʔ": 1
+            },
+            "CC.CVC": {
+                "kjaheʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "gin": {
+        "count": 76,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "dgin": 2,
+                "k=gin": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "jagin": 24,
+                "ha=gin": 5,
+                "kagin": 3,
+                "bagin": 3,
+                "hagin": 1
+            },
+            "CVC.CVC": {
+                "gingin": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wek": {
+        "count": 74,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yawek": 11,
+                "ya=wek": 6,
+                "piwek": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ŋɔk": {
+        "count": 66,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=ŋɔk": 17,
+                "yaŋɔk": 8
+            },
+            "CVC.CVC": {
+                "ŋɔkŋɔk": 2,
+                "ŋɔk=ŋɔk": 1
+            },
+            "CC.CVC": {
+                "nk-ŋɔk": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVC.CVC.CVC.CVC.CVC.CVC": {
+                "ŋɔk-ŋɔk-ŋɔk-ŋɔk-ŋɔk-ŋɔk": 1
+            },
+            "CVCCC.CVC": {
+                "yabŋkŋɔk": 1
+            },
+            "CVCCVCCVCCVCCVCCVCCVCCVCCVCCVC.CVC": {
+                "ŋɔkŋɔkŋɔkŋɔkŋɔkŋɔkŋɔkŋɔkŋɔkŋɔkŋɔk": 1
+            }
+        }
+    },
+    "wɔŋ": {
+        "count": 57,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "bwɔŋ": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "ba=wɔŋ": 2,
+                "kawɔŋ": 2
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wel": {
+        "count": 56,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "mit": {
+        "count": 52,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "k=mit": 37,
+                "l=mit": 3
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "ba=mit": 13,
+                "ka=mit": 2
+            },
+            "CC.CVC": {
+                "nt-mit": 2
+            },
+            "CVC.CVC": {
+                "can=mit": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "pay": {
+        "count": 51,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "dpay": 14,
+                "kpay": 4
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {
+            "CV.C.CVC": {
+                "ka=d=pay": 2
+            }
+        },
+        "unclear": {}
+    },
+    "mɔh": {
+        "count": 49,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kmɔh": 5,
+                "d=mɔh": 4
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "bamɔh": 4,
+                "kamɔh": 2,
+                "ha=mɔh": 2,
+                "jamɔh": 1,
+                "ka=mɔh": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.C.CVC": {
+                "ka=d=mɔh": 1
+            },
+            "CV.CV": {
+                "hajamɔh": 1
+            }
+        },
+        "unclear": {
+            "CV.CV.C.CVC": {
+                "ya=ka=d=mɔh": 1
+            }
+        }
+    },
+    "pɛ̃w": {
+        "count": 48,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ba=pɛ̃w": 31,
+                "bapɛ̃w": 3,
+                "kapɛ̃w": 3,
+                "ka=pɛ̃w": 1
+            },
+            "CVC.CVC": {
+                "can=pɛ̃w": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV.CVC": {
+                "ha=ba=pɛ̃w": 1
+            }
+        },
+        "unclear": {
+            "CVCVCV.CVC": {
+                "jajabapɛ̃w": 1
+            }
+        }
+    },
+    "gɛs": {
+        "count": 47,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ja=gɛs": 1,
+                "ya=gɛs": 1
+            }
+        },
+        "trisyllabic": {
+            "C.CC.CVC": {
+                "knsgɛs": 1
+            }
+        },
+        "unclear": {
+            "CVC.CVC.CVC.CVC.CVC": {
+                "gɛs-gɛs-gɛs-gɛs-gɛs": 1
+            }
+        }
+    },
+    "ʔɛl": {
+        "count": 45,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=ʔɛl": 7,
+                "ha=ʔɛl": 5,
+                "caʔɛl": 3,
+                "kaʔɛl": 2,
+                "ja=ʔɛl": 1,
+                "yaʔɛl": 1
+            },
+            "CC.CVC": {
+                "llʔɛl": 1
+            }
+        },
+        "trisyllabic": {
+            "C.CVC.CVC": {
+                "bʔilʔɛl": 1
+            }
+        },
+        "unclear": {}
+    },
+    "dɔk": {
+        "count": 43,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kdɔk": 1,
+                "ldɔk": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "badɔk": 2,
+                "jadɔk": 1,
+                "kadɔk": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "was": {
+        "count": 42,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ba=was": 3,
+                "ka=was": 3,
+                "jawas": 1,
+                "ja=was": 1
+            },
+            "CVC.CVC": {
+                "can=was": 2
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "nɛy": {
+        "count": 41,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "tnɛy": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "ja=nɛy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wɛy": {
+        "count": 40,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ʔawɛy": 8
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "baʔawɛy": 1
+            }
+        },
+        "unclear": {}
+    },
+    "jok": {
+        "count": 39,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=jok": 11,
+                "yajok": 8
+            },
+            "CC.CVC": {
+                "nkjok": 1,
+                "jkjok": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCC.CVC": {
+                "yajkjok": 2
+            },
+            "CVCCVC.CVC": {
+                "yabjikjok": 1
+            },
+            "CVCCVCCVCCVCCVC.CVC": {
+                "jokjokjokjokjokjok": 1
+            },
+            "CVCCVCCVCCVCCVCCVCCVC.CVC": {
+                "jokjokjokjokjokjokjokjok": 1
+            },
+            "CVCCVCCVC.CVC": {
+                "jokjokjokjok": 1
+            }
+        }
+    },
+    "mɛy": {
+        "count": 37,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "mamɛy": 44,
+                "jamɛy": 3
+            },
+            "CVC.CVC": {
+                "mɛy-mɛy": 3,
+                "mɛymɛy": 1
+            },
+            "CC.CVC": {
+                "kmamɛy": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "bamamɛy": 4
+            }
+        },
+        "unclear": {}
+    },
+    "gəw": {
+        "count": 36,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=gəw": 9,
+                "ja=gəw": 2
+            },
+            "CVC.CVC": {
+                "gəw-gəw": 1
+            }
+        },
+        "trisyllabic": {
+            "CVC.CVC.CVC": {
+                "gəw-gəw-gəw": 2
+            },
+            "CV.CV.CVC": {
+                "ha=ya=gəw": 1
+            }
+        },
+        "unclear": {
+            "CVC.CVC.CVC.CVC": {
+                "gəw-gəw-gəw-gəw": 1
+            }
+        }
+    },
+    "bɨʔ": {
+        "count": 31,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kbɨʔ": 5
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "kabɨʔ": 2,
+                "babɨʔ": 2,
+                "ba=bɨʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ruk": {
+        "count": 31,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "rkruk": 14
+            },
+            "CV.CVC": {
+                "ya=ruk": 2
+            },
+            "CVC.CVC": {
+                "ruk-ruk": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV.CVC": {
+                "ha=ya=ruk": 2
+            },
+            "CV.CC.CVC": {
+                "ya=rkruk": 2
+            },
+            "C.CC.CVC": {
+                "k=rkruk": 1
+            }
+        },
+        "unclear": {
+            "CV.CV.CC.CVC": {
+                "ha=ya=rkruk": 2
+            },
+            "CV.CCCVC.CVC": {
+                "ya=rkruk-ruk": 1
+            },
+            "CCCVC.CC.CVC": {
+                "rkruk-rkruk": 1
+            }
+        }
+    },
+    "ʔə̃h": {
+        "count": 28,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "pnʔə̃h": 30,
+                "pn=ʔə̃h": 24
+            },
+            "CV.CVC": {
+                "ba=ʔə̃h": 17,
+                "baʔə̃h": 15
+            },
+            "CVC.CVC": {
+                "canʔə̃h": 3,
+                "can=ʔə̃h": 2
+            }
+        },
+        "trisyllabic": {
+            "CV.CC.CVC": {
+                "ya=pn=ʔə̃h": 1
+            },
+            "C.CV.CVC": {
+                "k=la=ʔə̃h": 1
+            }
+        },
+        "unclear": {
+            "CVCC.CVC": {
+                "japnʔə̃h": 2
+            }
+        }
+    },
+    "weʔ": {
+        "count": 26,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "k=weʔ": 1,
+                "kweʔ": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "waweʔ": 4,
+                "jaweʔ": 1,
+                "ha=weʔ": 1,
+                "yaweʔ": 1,
+                "haweʔ": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "jawaweʔ": 1
+            }
+        },
+        "unclear": {
+            "CVCVCV.CVC": {
+                "jawawaweʔ": 1
+            }
+        }
+    },
+    "cɨh": {
+        "count": 23,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yacɨh": 2
+            },
+            "CC.CVC": {
+                "chcɨh": 1
+            },
+            "CVC.CVC": {
+                "cɨhcɨh": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "jɨʔ": {
+        "count": 23,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "bɲjɨʔ": 3,
+                "mɲjɨʔ": 2,
+                "jʔjɨʔ": 1
+            },
+            "CVC.CVC": {
+                "jɨʔjɨʔ": 1
+            }
+        },
+        "trisyllabic": {
+            "C.CC.CVC": {
+                "k=bɲjɨʔ": 2
+            }
+        },
+        "unclear": {}
+    },
+    "rɔh": {
+        "count": 23,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "snrɔh": 3
+            },
+            "CV.CVC": {
+                "jarɔh": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "cɔl": {
+        "count": 20,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yacɔl": 3
+            },
+            "CC.CVC": {
+                "nlcɔl": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "kɛc": {
+        "count": 20,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jakɛc": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CC.CVC": {
+                "ba=nc-kɛc": 2
+            }
+        },
+        "unclear": {}
+    },
+    "bɛr": {
+        "count": 20,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jabɛr": 4,
+                "kabɛr": 2,
+                "babɛr": 2
+            },
+            "CC.CVC": {
+                "cnbɛr": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ba=": {
+        "count": 18,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=ba=": 2,
+                "ha=ba=": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "tũn": {
+        "count": 18,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ka=tũn": 2
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɛy": {
+        "count": 17,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "kaʔɛy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɛ̃m": {
+        "count": 17,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "waʔɛ̃m": 4,
+                "ya=ʔɛ̃m": 3,
+                "baʔɛ̃m": 2,
+                "piʔɛ̃m": 2,
+                "jaʔɛ̃m": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "bawaʔɛ̃m": 1
+            }
+        },
+        "unclear": {}
+    },
+    "ʔɔy": {
+        "count": 16,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "lah": {
+        "count": 16,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "salah": 3,
+                "ʔalah": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "basalah": 1,
+                "wasalah": 1
+            }
+        },
+        "unclear": {
+            "CVCCVCCVCCVC.CVC": {
+                "lahlahlahlahlah": 3
+            },
+            "CVCCVCCVCCVCCVC.CVC": {
+                "lahlahlahlahlahlah": 2
+            },
+            "CVCCVCCVCCVCCVCCVCCVCCVC.CVC": {
+                "lahlahlahlahlahlahlahlahlah": 1
+            },
+            "CVCCV.CVC": {
+                "wabsalah": 1
+            }
+        }
+    },
+    "bəh": {
+        "count": 15,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jabəh": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "baʔ": {
+        "count": 15,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "cbaʔ": 27
+            }
+        },
+        "disyllabic": {
+            "CC.CVC": {
+                "nʔbaʔ": 5
+            },
+            "CV.CVC": {
+                "habaʔ": 4,
+                "jabaʔ": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.C.CVC": {
+                "ba=cbaʔ": 3
+            },
+            "CV.CV.CVC": {
+                "ba=habaʔ": 1
+            },
+            "CV.CV": {
+                "hacubaʔ": 1
+            }
+        },
+        "unclear": {}
+    },
+    "jɔh": {
+        "count": 14,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "nh-jɔh": 4,
+                "nhjɔh": 2
+            },
+            "CV.CVC": {
+                "ya=jɔh": 3
+            },
+            "CVC.CVC": {
+                "jɔh-jɔh": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCC.CVC": {
+                "banhjɔh": 2
+            }
+        }
+    },
+    "aaa": {
+        "count": 14,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "haaa": 1
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hɛy": {
+        "count": 13,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jahɛy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wih": {
+        "count": 13,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "dwih": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "sawih": 1,
+                "jawih": 1,
+                "bawih": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔon": {
+        "count": 13,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kʔon": 1
+            }
+        },
+        "disyllabic": {
+            "CVC.CVC": {
+                "canʔon": 13,
+                "can=ʔon": 2
+            },
+            "CV.CVC": {
+                "ba=ʔon": 7
+            },
+            "CC.CVC": {
+                "pnʔon": 4,
+                "cnʔon": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "jim": {
+        "count": 13,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "lɔy": {
+        "count": 12,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "walɔy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCCVCCVC.CVC": {
+                "lɔylɔylɔylɔy": 1
+            }
+        }
+    },
+    "ʔɛk": {
+        "count": 11,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=ʔɛk": 1,
+                "yaʔɛk": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "siʔ": {
+        "count": 11,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "nasiʔ": 3,
+                "ʔisiʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCVCCV.CVC": {
+                "baʔaytisiʔ": 2
+            },
+            "CVCCV.CVC": {
+                "ʔaytisiʔ": 2
+            }
+        }
+    },
+    "deʔ": {
+        "count": 11,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "pdeʔ": 2
+            }
+        },
+        "disyllabic": {
+            "CC.CVC": {
+                "dʔdeʔ": 3,
+                "crdeʔ": 1,
+                "dʔ-deʔ": 1
+            },
+            "CV.CVC": {
+                "yadeʔ": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CC.CVC": {
+                "ya=dʔ-deʔ": 5
+            },
+            "C.CC.CVC": {
+                "kdʔdeʔ": 2
+            }
+        },
+        "unclear": {
+            "CVCC.CVC": {
+                "yadʔdeʔ": 1,
+                "wadʔdeʔ": 1
+            },
+            "CCCC.CVC": {
+                "cndʔdeʔ": 1
+            }
+        }
+    },
+    "ʔay": {
+        "count": 10,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "lʔay": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "baʔay": 2,
+                "kaʔay": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sir": {
+        "count": 10,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "kɔm": {
+        "count": 10,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "k=kɔm": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "wa=kɔm": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "kɛn": {
+        "count": 10,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "tkɛn": 3
+            }
+        },
+        "disyllabic": {
+            "CC.CVC": {
+                "nnkɛn": 4,
+                "tnkɛn": 1
+            },
+            "CVC.CVC": {
+                "jatkɛn": 3,
+                "kɛnkɛn": 2,
+                "watkɛn": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCVC.CVC": {
+                "yawatkɛn": 1
+            }
+        }
+    },
+    "ya=": {
+        "count": 10,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ha=ya=": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "kah": {
+        "count": 9,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "tikah": 9,
+                "ʔekah": 2,
+                "sukah": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV.CVC": {
+                "ya=tikah": 1
+            },
+            "CV.CVC.CVC": {
+                "wa=laŋkah": 1
+            }
+        },
+        "unclear": {}
+    },
+    "taʔ": {
+        "count": 9,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "lataʔ": 6
+            }
+        },
+        "trisyllabic": {
+            "CV.CV.CVC": {
+                "ba=lataʔ": 2,
+                "ka=lataʔ": 1
+            },
+            "C.CV.CVC": {
+                "k=lataʔ": 1
+            },
+            "CV.CV": {
+                "bamataʔ": 1
+            }
+        },
+        "unclear": {}
+    },
+    "gop": {
+        "count": 9,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "kagop": 8,
+                "bagop": 4
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "yiʔ": {
+        "count": 8,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "hayiʔ": 23
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wah": {
+        "count": 8,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {
+            "CVCVCC.CVC": {
+                "ʔanaʔbwah": 1
+            },
+            "CVCVCCVCVCC.CVC": {
+                "ʔanaʔʔanaʔbwah": 1
+            }
+        }
+    },
+    "jĩŋ": {
+        "count": 8,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "hajĩŋ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hɨp": {
+        "count": 8,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "klahɨp": 4
+            },
+            "CV.CVC": {
+                "bahɨp": 4
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "gey": {
+        "count": 7,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CVC.CVC": {
+                "geygey": 3,
+                "gey-gey": 1
+            },
+            "CV.CVC": {
+                "ya=gey": 1,
+                "ha=gey": 1
+            },
+            "CC.CVC": {
+                "gy-gey": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CCCVC.CVC": {
+                "gygeygey": 1
+            }
+        }
+    },
+    "tek": {
+        "count": 7,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "nktek": 2
+            },
+            "CV.CVC": {
+                "yatek": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCCVC.CVC": {
+                "tektektek": 1
+            }
+        }
+    },
+    "pon": {
+        "count": 7,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "jpon": 1
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "naw": {
+        "count": 7,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "knaw": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "banaw": 3,
+                "kanaw": 2
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "cah": {
+        "count": 7,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yacah": 1
+            },
+            "CC.CVC": {
+                "pnicah": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "jĩp": {
+        "count": 7,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "har": {
+        "count": 7,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sə̃h": {
+        "count": 7,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jasə̃h": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔap": {
+        "count": 7,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "maʔap": 2
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sam": {
+        "count": 6,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ya=sam": 3,
+                "yasam": 2,
+                "sa-sam": 1
+            },
+            "CVC.CVC": {
+                "sam-sam": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "teʔ": {
+        "count": 6,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "bateʔ": 4,
+                "ba=teʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "yɛh": {
+        "count": 6,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "dyɛh": 2
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "jayɛh": 1
+            },
+            "CVC.CVC": {
+                "jadyɛh": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ka=": {
+        "count": 5,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "gɨs": {
+        "count": 5,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sək": {
+        "count": 5,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "boh": {
+        "count": 5,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "cboh": 2,
+                "lboh": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "yaboh": 1
+            },
+            "CVC.CVC": {
+                "balboh": 1
+            },
+            "CC.CVC": {
+                "nhboh": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCC.CVC": {
+                "banhboh": 1
+            }
+        }
+    },
+    "bay": {
+        "count": 5,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yabay": 4
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "yaŋ": {
+        "count": 5,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "tyaŋ": 1
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "cɔs": {
+        "count": 5,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "gəs": {
+        "count": 5,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "pɛ̃ʔ": {
+        "count": 5,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "kuy": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ba=kuy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ley": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jaley": 2
+            },
+            "CVC.CVC": {
+                "can=ley": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sɔm": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hə̃h": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wɨn": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "yɨy": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jayɨy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sɛɲ": {
+        "count": 4,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "ksɛɲ": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "kasɛɲ": 11,
+                "ka=sɛɲ": 3,
+                "basɛɲ": 2,
+                "ba=sɛɲ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCCVCCVC.CVC": {
+                "sɛɲsɛɲsɛɲsɛɲ": 1
+            }
+        }
+    },
+    "kɛy": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "bakɛy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sit": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yasit": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hə̃t": {
+        "count": 4,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɔs": {
+        "count": 4,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kʔɔs": 2
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "baʔɔs": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "əəə": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "dut": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jadut": 2,
+                "badut": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sɔc": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jasɔc": 8,
+                "ja=sɔc": 2
+            },
+            "CC.CVC": {
+                "trsɔc": 1,
+                "ncsɔc": 1
+            }
+        },
+        "trisyllabic": {
+            "C.CC.CVC": {
+                "tnrsɔc": 2
+            }
+        },
+        "unclear": {
+            "CVCCC.CVC": {
+                "jatnrsɔc": 3
+            }
+        }
+    },
+    "pel": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hat": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "rihat": 9
+            },
+            "CC.CVC": {
+                "rnihat": 2
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "yarihat": 5
+            },
+            "CV.CV.CVC": {
+                "ya=rihat": 1
+            }
+        },
+        "unclear": {}
+    },
+    "kit": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ba=kit": 12
+            },
+            "CVC.CVC": {
+                "ʔaŋkit": 6
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hɛ̃ɲ": {
+        "count": 3,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "l=hɛ̃ɲ": 2
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "kahɛ̃ɲ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "cɔm": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ja=": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "rɛs": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {
+            "CVCVC.CVC": {
+                "yarɛsrɛs": 1
+            }
+        }
+    },
+    "yaʔ": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "layaʔ": 5,
+                "cayaʔ": 1,
+                "buyaʔ": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "kalayaʔ": 2
+            }
+        },
+        "unclear": {
+            "CVCCV.CVC": {
+                "jadlayaʔ": 1
+            },
+            "CCVCVCCV.CVC": {
+                "klayaʔlayaʔ": 1
+            }
+        }
+    },
+    "lis": {
+        "count": 3,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "tulis": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "lɛc": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔũn": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "kaʔũn": 23,
+                "baʔũn": 15,
+                "ba=ʔũn": 14,
+                "ka=ʔũn": 4
+            },
+            "CC.CVC": {
+                "pn=ʔũn": 1
+            }
+        },
+        "trisyllabic": {
+            "CV.CV.CCC": {
+                "ha=ba=ʔũn": 1
+            }
+        },
+        "unclear": {}
+    },
+    "mmm": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "dɛs": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yadɛs": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɔm": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "dɛy": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "padɛy": 6
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wa=": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "eee": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "piŋ": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CC.CVC": {
+                "krpiŋ": 1
+            }
+        },
+        "trisyllabic": {
+            "CC.CC.CVC": {
+                "cn=krpiŋ": 1
+            }
+        },
+        "unclear": {
+            "CVCC.CVC": {
+                "bakrpiŋ": 2,
+                "kakrpiŋ": 1
+            },
+            "CCCC.CVC": {
+                "cnkrpiŋ": 1
+            }
+        }
+    },
+    "tas": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yatas": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "miʔ": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jamiʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "pəw": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "tɔp": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "lok": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "koh": {
+        "count": 2,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɛc": {
+        "count": 2,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "kʔɛc": 2
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "cn=": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "gɔŋ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "wet": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "wawet": 2
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "məm": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hah": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "kəl": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "pan": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "lapan": 6,
+                "papan": 2
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "jak": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɔr": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "can": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "haa": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hãã": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "tɔʔ": {
+        "count": 1,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "ktɔʔ": 13
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {
+            "C.CC.CVC": {
+                "knʔtɔʔ": 1
+            }
+        },
+        "unclear": {}
+    },
+    "rus": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "bəw": {
+        "count": 1,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "lbəw": 1
+            }
+        },
+        "disyllabic": {
+            "CV.CVC": {
+                "wa=bəw": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sət": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "nɛm": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "tanɛm": 11
+            }
+        },
+        "trisyllabic": {
+            "CV.CV": {
+                "yatanɛm": 1
+            }
+        },
+        "unclear": {}
+    },
+    "bat": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "pɛɲ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ɛɛɛ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "b=l": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "aah": {
+        "count": 1,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "ʔaah": 1
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {
+            "V.CVC": {
+                "aaah": 1
+            }
+        }
+    },
+    "ʔɛɛ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ɛɛh": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {
+            "V.CVC": {
+                "ɛɛɛh": 1
+            }
+        }
+    },
+    "toy": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "ka=toy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "pal": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "kapal": 1
+            }
+        },
+        "trisyllabic": {
+            "CC.CV.CVC": {
+                "kknipal": 1
+            }
+        },
+        "unclear": {
+            "CVCVCCVCVCCV.CVC": {
+                "kipalkipalkipal": 1
+            }
+        }
+    },
+    "dɔ̃ʔ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CVC.CVC": {
+                "candɔ̃ʔ": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "lɔʔ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jalɔʔ": 29,
+                "ʔalɔʔ": 3
+            },
+            "CC.CVC": {
+                "bjalɔʔ": 2
+            }
+        },
+        "trisyllabic": {
+            "CV.CV.CVC": {
+                "ha=jalɔʔ": 1
+            },
+            "CV.CV": {
+                "jajalɔʔ": 1
+            }
+        },
+        "unclear": {
+            "CVCCV.CVC": {
+                "yabjalɔʔ": 1
+            }
+        }
+    },
+    "rəc": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "eeh": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {
+            "V.CVC": {
+                "eeeh": 1
+            }
+        }
+    },
+    "gur": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sɨh": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "dɨŋ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "seŋ": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "pos": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "gus": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "cɛp": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {
+            "CVCCC.CVC": {
+                "yabcpcɛp": 1
+            }
+        }
+    },
+    "hay": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "jahay": 13
+            },
+            "CC.CVC": {
+                "ljahay": 7,
+                "jrahay": 1,
+                "djahay": 1
+            }
+        },
+        "trisyllabic": {
+            "C.CC.CVC": {
+                "knyhay": 1
+            }
+        },
+        "unclear": {
+            "CCCCVCCC.CVC": {
+                "knyhaynyhay": 1
+            }
+        }
+    },
+    "hãh": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "sot": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɛm": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "ʔɛh": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "lɛy": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "gulɛy": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "jam": {
+        "count": 1,
+        "sesquisyllabic": {
+            "C.CVC": {
+                "sjam": 2
+            }
+        },
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "dah": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "sudah": 7
+            },
+            "CVC.CVC": {
+                "pindah": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CCVCVCCV.CVC": {
+                "kmudahmudah": 2
+            }
+        }
+    },
+    "cok": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {
+            "CV.CVC": {
+                "yacok": 1
+            }
+        },
+        "trisyllabic": {},
+        "unclear": {
+            "CVCCVCCVC.CVC": {
+                "cokcokcokcok": 1
+            }
+        }
+    },
+    "ʔeh": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    },
+    "hɨs": {
+        "count": 1,
+        "sesquisyllabic": {},
+        "disyllabic": {},
+        "trisyllabic": {},
+        "unclear": {}
+    }
+}

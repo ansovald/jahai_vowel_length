@@ -1,0 +1,200 @@
+{
+    "ʔoʔ": {
+        "total_counts": {
+            "monosyllabic": 322,
+            "sesquisyllabic": 17,
+            "disyllabic": 52,
+            "trisyllabic": 1
+        },
+        "0_monosyllabic": {
+            "total_count": 322,
+            "CVC": 322,
+            "CVC_words": [
+                "ʔoʔ"
+            ]
+        },
+        "0_disyllabic": {
+            "total_count": 52,
+            "CV.CVC": 52,
+            "CV.CVC_words": [
+                "jaʔoʔ",
+                "kaʔoʔ",
+                "baʔoʔ"
+            ]
+        },
+        "0_sesquisyllabic": {
+            "total_count": 17,
+            "C.CVC": 17,
+            "C.CVC_words": [
+                "sʔoʔ",
+                "dʔoʔ",
+                "kʔoʔ"
+            ]
+        },
+        "0_trisyllabic": {
+            "total_count": 1,
+            "C.CV.CVC": 1,
+            "C.CV.CVC_words": [
+                "kjaʔoʔ"
+            ]
+        }
+    },
+    "yɛʔ": {
+        "total_counts": {
+            "monosyllabic": 227,
+            "sesquisyllabic": 22,
+            "disyllabic": 63
+        },
+        "0_monosyllabic": {
+            "total_count": 227,
+            "CVC": 227,
+            "CVC_words": [
+                "yɛʔ"
+            ]
+        },
+        "0_disyllabic": {
+            "total_count": 63,
+            "CV.CVC": 60,
+            "CV.CVC_words": [
+                "jayɛʔ",
+                "bayɛʔ",
+                "kayɛʔ",
+                "yayɛʔ"
+            ],
+            "CVC.CVC": 3,
+            "CVC.CVC_words": [
+                "jadyɛʔ",
+                "kadyɛʔ"
+            ]
+        },
+        "0_sesquisyllabic": {
+            "total_count": 22,
+            "C.CVC": 22,
+            "C.CVC_words": [
+                "dyɛʔ",
+                "kyɛʔ"
+            ]
+        }
+    },
+    "pas": {
+        "total_counts": {
+            "monosyllabic": 0,
+            "sesquisyllabic": 98,
+            "disyllabic": 10,
+            "unclear": 1
+        },
+        "0_sesquisyllabic": {
+            "total_count": 97,
+            "C.CVC": 97,
+            "C.CVC_words": [
+                "lpas"
+            ]
+        },
+        "0_disyllabic": {
+            "total_count": 10,
+            "CVC.CVC": 10,
+            "CVC.CVC_words": [
+                "jalpas"
+            ]
+        },
+        "0_unclear": {
+            "total_count": 1,
+            "CVCVC.CVC": 1,
+            "CVCVC.CVC_words": [
+                "jajalpas"
+            ]
+        },
+        "1_sesquisyllabic": {
+            "total_count": 1,
+            "C=C.CVC": 1,
+            "C=C.CVC_words": [
+                "b_lpas"
+            ]
+        }
+    },
+    "tə̃h": {
+        "total_counts": {
+            "monosyllabic": 61,
+            "sesquisyllabic": 30,
+            "disyllabic": 7,
+            "unclear": 2
+        },
+        "0_monosyllabic": {
+            "total_count": 61,
+            "CVC": 61,
+            "CVC_words": [
+                "tə̃h"
+            ]
+        },
+        "0_sesquisyllabic": {
+            "total_count": 30,
+            "C.CVC": 30,
+            "C.CVC_words": [
+                "ktə̃h",
+                "ktə͂h",
+                "dtə̃h"
+            ]
+        },
+        "0_disyllabic": {
+            "total_count": 7,
+            "CV.CVC": 5,
+            "CV.CVC_words": [
+                "jatə͂h",
+                "katə̃h"
+            ],
+            "CVC.CVC": 2,
+            "CVC.CVC_words": [
+                "jaktə̃h"
+            ]
+        },
+        "0_unclear": {
+            "total_count": 2,
+            "CCCV.CVC": 1,
+            "CCCV.CVC_words": [
+                "cnkatə̃h"
+            ],
+            "CVCCCV.CVC": 1,
+            "CVCCCV.CVC_words": [
+                "yacnkatə̃h"
+            ]
+        }
+    },
+    "raʔ": {
+        "total_counts": {
+            "monosyllabic": 0,
+            "sesquisyllabic": 24,
+            "disyllabic": 30,
+            "unclear": 1
+        },
+        "0_sesquisyllabic": {
+            "total_count": 24,
+            "C.CVC": 24,
+            "C.CVC_words": [
+                "braʔ"
+            ]
+        },
+        "0_disyllabic": {
+            "total_count": 30,
+            "CVC.CVC": 19,
+            "CVC.CVC_words": [
+                "jabraʔ",
+                "habraʔ"
+            ],
+            "CC.CVC": 9,
+            "CC.CVC_words": [
+                "mnraʔ"
+            ],
+            "CV.CVC": 2,
+            "CV.CVC_words": [
+                "peraʔ"
+            ]
+        },
+        "0_unclear": {
+            "total_count": 1,
+            "CVCC.CVC": 1,
+            "CVCC.CVC_words": [
+                "kamnraʔ"
+            ]
+        }
+    }
+}
